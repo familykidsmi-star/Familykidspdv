@@ -3,5 +3,5 @@
 // Cole aqui a Publishable Key do Supabase novo.
 window.FK_SUPABASE = {
   url: "https://rrnoknxqnygfdwyunsin.supabase.co",
-  anonKey: "COLE_AQUI_SUA_SB_PUBLISHABLE_KEY"
+  anonKey: "sb_publishable_yHw7wJKUrZF6uqLsoVX9Gg_mnFHOlAy"
 };
